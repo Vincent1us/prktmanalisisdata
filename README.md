@@ -36,7 +36,7 @@ Data penjualan dikelompokkan per bulan, lalu dibuat grafik garis.
 
 👉 Dari sini bisa dilihat apakah penjualan naik atau turun setiap bulan.
 
-![Tren Penjualan Bulanan](Analisis Data/images/Figure_1.png)
+![Tren Penjualan Bulanan](images/Figure_1.png)
 
 ---
 
@@ -45,7 +45,7 @@ Data dikelompokkan berdasarkan kategori produk.
 
 👉 Tujuannya untuk mengetahui produk mana yang paling banyak menghasilkan penjualan.
 
-![Analisis Produk](Analisis Data/images/Figure_2.png)
+![Analisis Produk](images/Figure_2.png)
 
 ---
 
@@ -64,7 +64,7 @@ Data ditampilkan dalam bentuk grafik batang.
 
 👉 Lebih mudah melihat perbandingan antar kategori produk.
 
-![Total Penjualan per Kategori](Analisis Data/images/Figure_3.png)
+![Total Penjualan per Kategori](images/Figure_3.png)
 
 ---
 
@@ -106,7 +106,7 @@ Grafik scatter dibuat untuk melihat hubungan antara:
 
 👉 Supaya hubungan antar data terlihat lebih jelas.
 
-![Hubungan Iklan dan Penjualan](Analisis Data/images/Figure_5.png)
+![Hubungan Iklan dan Penjualan](images/Figure_5.png)
 
 ---
 
